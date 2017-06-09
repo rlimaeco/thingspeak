@@ -1,5 +1,5 @@
 GIT
-  remote: git://github.com/gregbell/active_admin.git
+  remote: git://github.com/activeadmin/active_admin.git
   revision: 0c83cfe0b9b43a4a27a63c13f27d6682b0ff6cae
   specs:
     activeadmin (1.0.0.pre)
